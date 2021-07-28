@@ -1,9 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-namespace Netting_Code
+namespace Progam
 {
-    class Netting
+    class Post
     {
         static void Main(string[] args)
         {
